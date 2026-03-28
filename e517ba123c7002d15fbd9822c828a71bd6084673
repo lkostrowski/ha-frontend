@@ -1,0 +1,23 @@
+test/resources/fuse-multi-term.test.ts
+  43aeae449dc29370 1-128
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "e517ba123c7002d15fbd9822c828a71bd6084673",
+  "prompts": {
+    "43aeae449dc29370": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "22f7f3ad-2a79-458d-92d0-ef7e69623348",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Lukasz Ostrowski <lukasz.ostrowski@saleor.io>",
+      "messages": [],
+      "total_additions": 128,
+      "total_deletions": 0,
+      "accepted_lines": 128,
+      "overriden_lines": 0
+    }
+  }
+}
