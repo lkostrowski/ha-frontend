@@ -1,0 +1,51 @@
+src/panels/config/apps/components/supervisor-apps-filter.ts
+  43aeae449dc29370 3,5,14,17
+src/dialogs/quick-bar/ha-quick-bar.ts
+  43aeae449dc29370 53,659
+src/components/ha-target-picker.ts
+  43aeae449dc29370 56,169
+src/panels/lovelace/editor/badge-editor/hui-badge-picker.ts
+  43aeae449dc29370 13-14,89,92-94
+src/components/ha-area-controls-picker.ts
+  43aeae449dc29370 11,100
+src/panels/config/integrations/ha-config-integrations-dashboard.ts
+  43aeae449dc29370 17-18,367,370-372
+src/components/ha-picker-combo-box.ts
+  43aeae449dc29370 22,455-457
+src/common/string/strip-diacritics.ts
+  43aeae449dc29370 1-21,23-26
+src/panels/config/automation/dialog-new-automation.ts
+  43aeae449dc29370 39,127-129
+test/common/string/strip_diacritics.test.ts
+  43aeae449dc29370 1-50
+src/panels/config/automation/add-automation-element/ha-automation-add-search.ts
+  43aeae449dc29370 67,456
+src/resources/fuseMultiTerm.ts
+  43aeae449dc29370 3,10,17-35,42,62-65,80,106-107,180-181
+src/panels/lovelace/editor/card-editor/hui-card-picker.ts
+  43aeae449dc29370 12-13,95,98
+src/panels/config/integrations/dialog-add-integration.ts
+  43aeae449dc29370 17-18,322,324,335,338,341
+src/components/ha-navigation-picker.ts
+  43aeae449dc29370 15-17,186-188,191-193,196-198,201-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "c479fca6b961b9c8ae6c6f26947fc51bf2f5e658",
+  "prompts": {
+    "43aeae449dc29370": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "22f7f3ad-2a79-458d-92d0-ef7e69623348",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Lukasz Ostrowski <lukasz.ostrowski@saleor.io>",
+      "messages": [],
+      "total_additions": 168,
+      "total_deletions": 23,
+      "accepted_lines": 166,
+      "overriden_lines": 0
+    }
+  }
+}
