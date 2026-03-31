@@ -1,0 +1,23 @@
+src/panels/config/dashboard/dialog-new-dashboard.ts
+  a39be99e157e66c4 232-233,236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "4e2d04ed663fdd270f092875670d1ca431d250c1",
+  "prompts": {
+    "a39be99e157e66c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "906dbdbd-751d-4d14-a2f0-d4e2b3be7b9c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Lukasz Ostrowski <lukasz.ostrowski@saleor.io>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 1,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
